@@ -19,3 +19,5 @@ docs1
 before rebase
 
 after rebase before merge
+
+feature1
