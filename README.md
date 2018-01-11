@@ -20,4 +20,4 @@ before rebase
 
 after rebase before merge
 
-feature1
+feature1 +
