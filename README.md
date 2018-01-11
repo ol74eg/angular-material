@@ -20,4 +20,9 @@ before rebase
 
 after rebase before merge
 
+
 feature1 +
+
+12
+
+1
